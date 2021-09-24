@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+    color:white;
+    font-size: 20px;
+}
+h1{
+    color:grey
+}
+#id2{
+    color:lightblue
+}
+.main-header{
+    color: cornflowerblue;
+}
+.main-header{
+    text-align: center;
+}
+.second-header{
+    text-align: center ;
+}
+.head {
+    margin-top: 50px;
+}
+.sub-header{
+text-align: center;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main-header{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.div{
+    text-align: center;
+}
+.div{
+    background-color: darkgray;
+}
