@@ -1,5 +1,5 @@
 body{
-    background-color: darkcyan;
+    background-color:black;
     color:white;
     font-size: 20px;
 }
@@ -37,6 +37,6 @@ body{
 .hallo{
     background-color;
 }
-.sub-header{
-    border: 30px darkblue;
+.hallo{
+    border: 10px solid darkblue;
 }
