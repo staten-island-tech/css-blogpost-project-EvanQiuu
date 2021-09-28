@@ -1,5 +1,5 @@
 body{
-    background-color: darkcyan;
+    background-color:black;
     color:white;
     font-size: 20px;
 }
@@ -31,12 +31,9 @@ body{
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.hallo{
+.div{
     text-align: center;
 }
-.hallo{
-    background-color;
-}
-.sub-header{
-    border: 30px darkblue;
+.div{
+    background-color: darkgray;
 }
