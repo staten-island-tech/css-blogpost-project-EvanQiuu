@@ -37,6 +37,16 @@ body{
 .hallo{
     background-color;
 }
-.hallo{
+.hallo2{
     border: 10px solid darkblue;
+}
+.hallo2{
+    text-align: center;
+}
+#centerplease{
+    text-align: center ;
+}
+.hallo3{
+    border: 10px solid darkblue;
+    text-align: center;
 }
